@@ -1,0 +1,56 @@
+@import url("components/card.css");
+@import url("components/container.css");
+
+h1{
+	color:black;
+	/*background-color: rgb(44, 51, 51), serif;*/
+	font-family: Merriweather, serif;
+}
+
+p{
+	color:black ;
+	font-family: Merriweather, serif;
+	text-justify: center;
+	margin: 10px;
+	padding: 5px;
+}
+
+li{
+	color:black ;
+	font-family: Merriweather, serif;
+}
+
+a{
+	color: black;
+	text-decoration: none;
+	font-family: Merriweather, serif;
+	font-size: 15px;
+}
+form{
+	color: rgb(44, 51, 51), serif;
+	font-family: Merriweather, serif;
+	font-size: 15px;
+}
+body {
+	background-color:#2C3333;
+	font-family: Merriweather, serif;
+	font-size: 20px;
+	line-height: 1,8;
+	letter-spacing: 2px;
+	/*display: flex;*/
+	/*justify-content:  center;*/
+}
+
+div {
+	background: whitesmoke;
+	width: 700px;
+	padding: 20px 60px;
+	margin: 60px auto;
+	border: 1px solid beige;
+	box-shadow: 2px 2px 5px white;
+	border-radius: 5px;
+}
+
+h2{
+	color: black;
+}

@@ -1,0 +1,28 @@
+.card-jobs{
+	background-color: black;
+	width: 400px;
+	height: 100px;
+	display:  flex;
+	margin: 20px;
+	padding: 20px;
+	justify-content: flex-start;
+}
+.card-logo{
+	background: white;
+	width: 90px;
+	height: 90px;
+	margin: 0;
+	padding: 5px 5px;
+}
+.card-text{
+	background: white;
+	width: 300px;
+	height: 100px;
+	margin:  300px;
+	margin: 0;
+	padding: 0;
+}
+.img-logo{
+	width: 100%;
+	height: 100%;
+}
